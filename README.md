@@ -62,4 +62,3 @@ Mejoras futuras: configurar mediante variables de entorno, sustituir rutas absol
 ---
 
 [CS // Software Lab · Cristhian Storm](https://github.com/CristhianStorm)
-
